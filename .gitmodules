@@ -1,0 +1,12 @@
+[submodule "redis"]
+	path = redis
+	url = https://github.com/maxwzg/docker-redis.git
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/maxwzg/docker-mysql.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/maxwzg/docker-nginx.git
+[submodule "php-fpm"]
+	path = php-fpm
+	url = https://github.com/maxwzg/docker-php-fpm.git
